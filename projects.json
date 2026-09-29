@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "chiliz-news",
+    "name": "chiliz-news",
+    "description": "News site for the Chiliz community, built with the studio agent",
+    "stack": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind"
+    ],
+    "owner": "Calvin",
+    "repo": "https://github.com/iamcalvin7/chiliz-news.git",
+    "addedAt": 1790664268348,
+    "updatedAt": 1790664268348
+  }
+]
